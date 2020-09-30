@@ -9,6 +9,25 @@ session_start();
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Resume_form</title>
+    <style>
+        label {
+            width: 150px;
+            display: inline-block;
+            padding: 3px;
+        }
+
+        table,
+        td,
+        th {
+            border: 2px solid black;
+            text-align: center;
+        }
+
+        table {
+            border-collapse: collapse;
+            width: 78%;
+        }
+    </style>
 
    
 
